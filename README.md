@@ -1,2 +1,7 @@
-# Gmod-Disguise-System
-Addon that give you a suitcase to change your model between a defined list of playermodels, also shows your identity card.
+# Configuration
+Dont forget to edit the configuration files for your own use!
+
+Client-side configuration : lua/disguise_system/sh_config.lua
+
+Don't forget that this addon requires another addon's textures :
+https://steamcommunity.com/workshop/filedetails/?id=923586734

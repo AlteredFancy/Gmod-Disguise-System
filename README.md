@@ -1,3 +1,6 @@
+# Gmod-Disguise-System
+Addon that allows you to disguise yourself between a list of playermodels.
+
 # Configuration
 Do not forget to edit the configuration files for your own use!
 
